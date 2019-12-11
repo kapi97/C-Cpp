@@ -1,0 +1,26 @@
+# position in this file matters so do not insert
+additional lines other than starting with #
+#database host hostname
+localhost
+#user
+konrad
+#password
+mojesupertajnehaslo
+#database
+exportnet
+# pop3 server hostname
+#mail.maxecommerce.com
+pop.idx.com.au
+# pop3 user name
+#exportnettst@maxecommerce.com
+user
+# pop3 password
+# 20mrxport04
+mojesupertajnehaslo
+#path to tmp folder
+/var/spool/exportnet/billing
+# TGGOLD server ip must be as ip address (sorry)
+# 210.8.121.237
+192.168.0.240
+# sleep interval in seconds
+30
